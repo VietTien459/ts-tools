@@ -1,2 +1,2 @@
-# ts-initializer
-Base files for a TypeScript project
+# ts-tools
+TypeScript Utility functions
